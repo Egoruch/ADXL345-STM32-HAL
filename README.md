@@ -1,4 +1,4 @@
-# ADXL345-HAL
+# ADXL345 STM32 HAL
 Digital accelerometer ADXL345. Measurement XYZ acceleration, activity detect, double tap detect, free-fall detect examples. Using interrupts on pin.
 
 * Article (rus): 
