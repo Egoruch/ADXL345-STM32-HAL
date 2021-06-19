@@ -24,8 +24,3 @@ ___
   
    ## Free-fall detection
   ![alt text](https://cxemka.com/upload/art/adxl345/free_fall_test_daxl.gif)
-
-
-
- ## Debug
-   ![alt text]( https://cxemka.com/upload/art/enc/le_enc_counter.png)
