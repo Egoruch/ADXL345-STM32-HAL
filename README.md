@@ -4,7 +4,7 @@ Digital accelerometer ADXL345. Measurement XYZ acceleration, activity detect, do
 * Article (rus): 
 * Youtube (rus): 
 ___
-* STM32F411CE6
+* STM32F411CU6
 * STM32CubeIDE
 * HAL
 
